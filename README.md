@@ -10,6 +10,9 @@ This is a real-time monitoring application for tracking heart rate, SpO2 levels,
 - **PDF Report Generation**: Saves health data with timestamped graphs.
 - **Dark & Light Mode Support**: User-selectable theme.
 
+## Screenshot
+![Dashboard Screenshot]()
+
 ## Installation
 ```bash
 pip install dash plotly pandas numpy reportlab
