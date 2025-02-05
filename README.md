@@ -11,7 +11,7 @@ This is a real-time monitoring application for tracking heart rate, SpO2 levels,
 - **Dark & Light Mode Support**: User-selectable theme.
 
 ## Screenshot
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Screenshot 2024-11-06 193142.png)
 
 ## Installation
 ```bash
